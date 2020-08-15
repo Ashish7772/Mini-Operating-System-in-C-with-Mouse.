@@ -1,0 +1,8 @@
+1. First Install Turbo C in your Computer.
+2. Go to Path of turbo C and copy All files Of BIN and Include In turbo C Bin And Include Folder.
+3. Open Turbo C and goto Options>Linker>Libraries>Graphic Libraries and Turn on.
+4. Then go Files>Open>Mini_OS.CPP and open it.
+5. Then go Run>Run Otherwise Ctrl+f9 and run program.
+6. After Run Fill user password 1234.
+ You Can Successfully Run Mini_OS made by Ashish Aggarwal.
+Thanku...
